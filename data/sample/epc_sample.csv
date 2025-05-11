@@ -1,0 +1,1001 @@
+postcode,current_energy_rating,current_energy_efficiency,potential_energy_rating,potential_energy_efficiency,property_type,built_form,construction_age_band,total_floor_area
+SW1A 1AA,A,92,A,92,Flat,Detached,Pre 1900,45
+M1 1AA,B,85,A,92,House,Semi-Detached,1900-1929,60
+B1 1AA,C,75,A,92,Bungalow,Terraced,1930-1949,75
+G1 1AA,D,65,B,85,Maisonette,End-Terrace,1950-1966,90
+EH1 1AA,E,55,C,75,Flat,Detached,1967-1975,120
+CF1 1AA,F,40,D,65,House,Semi-Detached,1976-1982,150
+LS1 1AA,G,25,E,55,Bungalow,Terraced,1983-1990,200
+NE1 1AA,A,92,A,92,Maisonette,End-Terrace,1991-1995,250
+BS1 1AA,B,85,A,92,Flat,Detached,1996-2002,45
+BT1 1AA,C,75,A,92,House,Semi-Detached,2003-2006,60
+SW1A 1AA,D,65,B,85,Bungalow,Terraced,2007-2011,75
+M1 1AA,E,55,C,75,Maisonette,End-Terrace,2012 onwards,90
+B1 1AA,F,40,D,65,Flat,Detached,Pre 1900,120
+G1 1AA,G,25,E,55,House,Semi-Detached,1900-1929,150
+EH1 1AA,A,92,A,92,Bungalow,Terraced,1930-1949,200
+CF1 1AA,B,85,A,92,Maisonette,End-Terrace,1950-1966,250
+LS1 1AA,C,75,A,92,Flat,Detached,1967-1975,45
+NE1 1AA,D,65,B,85,House,Semi-Detached,1976-1982,60
+BS1 1AA,E,55,C,75,Bungalow,Terraced,1983-1990,75
+BT1 1AA,F,40,D,65,Maisonette,End-Terrace,1991-1995,90
+SW1A 1AA,G,25,E,55,Flat,Detached,1996-2002,120
+M1 1AA,A,92,A,92,House,Semi-Detached,2003-2006,150
+B1 1AA,B,85,A,92,Bungalow,Terraced,2007-2011,200
+G1 1AA,C,75,A,92,Maisonette,End-Terrace,2012 onwards,250
+EH1 1AA,D,65,B,85,Flat,Detached,Pre 1900,45
+CF1 1AA,E,55,C,75,House,Semi-Detached,1900-1929,60
+LS1 1AA,F,40,D,65,Bungalow,Terraced,1930-1949,75
+NE1 1AA,G,25,E,55,Maisonette,End-Terrace,1950-1966,90
+BS1 1AA,A,92,A,92,Flat,Detached,1967-1975,120
+BT1 1AA,B,85,A,92,House,Semi-Detached,1976-1982,150
+SW1A 1AA,C,75,A,92,Bungalow,Terraced,1983-1990,200
+M1 1AA,D,65,B,85,Maisonette,End-Terrace,1991-1995,250
+B1 1AA,E,55,C,75,Flat,Detached,1996-2002,45
+G1 1AA,F,40,D,65,House,Semi-Detached,2003-2006,60
+EH1 1AA,G,25,E,55,Bungalow,Terraced,2007-2011,75
+CF1 1AA,A,92,A,92,Maisonette,End-Terrace,2012 onwards,90
+LS1 1AA,B,85,A,92,Flat,Detached,Pre 1900,120
+NE1 1AA,C,75,A,92,House,Semi-Detached,1900-1929,150
+BS1 1AA,D,65,B,85,Bungalow,Terraced,1930-1949,200
+BT1 1AA,E,55,C,75,Maisonette,End-Terrace,1950-1966,250
+SW1A 1AA,F,40,D,65,Flat,Detached,1967-1975,45
+M1 1AA,G,25,E,55,House,Semi-Detached,1976-1982,60
+B1 1AA,A,92,A,92,Bungalow,Terraced,1983-1990,75
+G1 1AA,B,85,A,92,Maisonette,End-Terrace,1991-1995,90
+EH1 1AA,C,75,A,92,Flat,Detached,1996-2002,120
+CF1 1AA,D,65,B,85,House,Semi-Detached,2003-2006,150
+LS1 1AA,E,55,C,75,Bungalow,Terraced,2007-2011,200
+NE1 1AA,F,40,D,65,Maisonette,End-Terrace,2012 onwards,250
+BS1 1AA,G,25,E,55,Flat,Detached,Pre 1900,45
+BT1 1AA,A,92,A,92,House,Semi-Detached,1900-1929,60
+SW1A 1AA,B,85,A,92,Bungalow,Terraced,1930-1949,75
+M1 1AA,C,75,A,92,Maisonette,End-Terrace,1950-1966,90
+B1 1AA,D,65,B,85,Flat,Detached,1967-1975,120
+G1 1AA,E,55,C,75,House,Semi-Detached,1976-1982,150
+EH1 1AA,F,40,D,65,Bungalow,Terraced,1983-1990,200
+CF1 1AA,G,25,E,55,Maisonette,End-Terrace,1991-1995,250
+LS1 1AA,A,92,A,92,Flat,Detached,1996-2002,45
+NE1 1AA,B,85,A,92,House,Semi-Detached,2003-2006,60
+BS1 1AA,C,75,A,92,Bungalow,Terraced,2007-2011,75
+BT1 1AA,D,65,B,85,Maisonette,End-Terrace,2012 onwards,90
+SW1A 1AA,E,55,C,75,Flat,Detached,Pre 1900,120
+M1 1AA,F,40,D,65,House,Semi-Detached,1900-1929,150
+B1 1AA,G,25,E,55,Bungalow,Terraced,1930-1949,200
+G1 1AA,A,92,A,92,Maisonette,End-Terrace,1950-1966,250
+EH1 1AA,B,85,A,92,Flat,Detached,1967-1975,45
+CF1 1AA,C,75,A,92,House,Semi-Detached,1976-1982,60
+LS1 1AA,D,65,B,85,Bungalow,Terraced,1983-1990,75
+NE1 1AA,E,55,C,75,Maisonette,End-Terrace,1991-1995,90
+BS1 1AA,F,40,D,65,Flat,Detached,1996-2002,120
+BT1 1AA,G,25,E,55,House,Semi-Detached,2003-2006,150
+SW1A 1AA,A,92,A,92,Bungalow,Terraced,2007-2011,200
+M1 1AA,B,85,A,92,Maisonette,End-Terrace,2012 onwards,250
+B1 1AA,C,75,A,92,Flat,Detached,Pre 1900,45
+G1 1AA,D,65,B,85,House,Semi-Detached,1900-1929,60
+EH1 1AA,E,55,C,75,Bungalow,Terraced,1930-1949,75
+CF1 1AA,F,40,D,65,Maisonette,End-Terrace,1950-1966,90
+LS1 1AA,G,25,E,55,Flat,Detached,1967-1975,120
+NE1 1AA,A,92,A,92,House,Semi-Detached,1976-1982,150
+BS1 1AA,B,85,A,92,Bungalow,Terraced,1983-1990,200
+BT1 1AA,C,75,A,92,Maisonette,End-Terrace,1991-1995,250
+SW1A 1AA,D,65,B,85,Flat,Detached,1996-2002,45
+M1 1AA,E,55,C,75,House,Semi-Detached,2003-2006,60
+B1 1AA,F,40,D,65,Bungalow,Terraced,2007-2011,75
+G1 1AA,G,25,E,55,Maisonette,End-Terrace,2012 onwards,90
+EH1 1AA,A,92,A,92,Flat,Detached,Pre 1900,120
+CF1 1AA,B,85,A,92,House,Semi-Detached,1900-1929,150
+LS1 1AA,C,75,A,92,Bungalow,Terraced,1930-1949,200
+NE1 1AA,D,65,B,85,Maisonette,End-Terrace,1950-1966,250
+BS1 1AA,E,55,C,75,Flat,Detached,1967-1975,45
+BT1 1AA,F,40,D,65,House,Semi-Detached,1976-1982,60
+SW1A 1AA,G,25,E,55,Bungalow,Terraced,1983-1990,75
+M1 1AA,A,92,A,92,Maisonette,End-Terrace,1991-1995,90
+B1 1AA,B,85,A,92,Flat,Detached,1996-2002,120
+G1 1AA,C,75,A,92,House,Semi-Detached,2003-2006,150
+EH1 1AA,D,65,B,85,Bungalow,Terraced,2007-2011,200
+CF1 1AA,E,55,C,75,Maisonette,End-Terrace,2012 onwards,250
+LS1 1AA,F,40,D,65,Flat,Detached,Pre 1900,45
+NE1 1AA,G,25,E,55,House,Semi-Detached,1900-1929,60
+BS1 1AA,A,92,A,92,Bungalow,Terraced,1930-1949,75
+BT1 1AA,B,85,A,92,Maisonette,End-Terrace,1950-1966,90
+SW1A 1AA,C,75,A,92,Flat,Detached,1967-1975,120
+M1 1AA,D,65,B,85,House,Semi-Detached,1976-1982,150
+B1 1AA,E,55,C,75,Bungalow,Terraced,1983-1990,200
+G1 1AA,F,40,D,65,Maisonette,End-Terrace,1991-1995,250
+EH1 1AA,G,25,E,55,Flat,Detached,1996-2002,45
+CF1 1AA,A,92,A,92,House,Semi-Detached,2003-2006,60
+LS1 1AA,B,85,A,92,Bungalow,Terraced,2007-2011,75
+NE1 1AA,C,75,A,92,Maisonette,End-Terrace,2012 onwards,90
+BS1 1AA,D,65,B,85,Flat,Detached,Pre 1900,120
+BT1 1AA,E,55,C,75,House,Semi-Detached,1900-1929,150
+SW1A 1AA,F,40,D,65,Bungalow,Terraced,1930-1949,200
+M1 1AA,G,25,E,55,Maisonette,End-Terrace,1950-1966,250
+B1 1AA,A,92,A,92,Flat,Detached,1967-1975,45
+G1 1AA,B,85,A,92,House,Semi-Detached,1976-1982,60
+EH1 1AA,C,75,A,92,Bungalow,Terraced,1983-1990,75
+CF1 1AA,D,65,B,85,Maisonette,End-Terrace,1991-1995,90
+LS1 1AA,E,55,C,75,Flat,Detached,1996-2002,120
+NE1 1AA,F,40,D,65,House,Semi-Detached,2003-2006,150
+BS1 1AA,G,25,E,55,Bungalow,Terraced,2007-2011,200
+BT1 1AA,A,92,A,92,Maisonette,End-Terrace,2012 onwards,250
+SW1A 1AA,B,85,A,92,Flat,Detached,Pre 1900,45
+M1 1AA,C,75,A,92,House,Semi-Detached,1900-1929,60
+B1 1AA,D,65,B,85,Bungalow,Terraced,1930-1949,75
+G1 1AA,E,55,C,75,Maisonette,End-Terrace,1950-1966,90
+EH1 1AA,F,40,D,65,Flat,Detached,1967-1975,120
+CF1 1AA,G,25,E,55,House,Semi-Detached,1976-1982,150
+LS1 1AA,A,92,A,92,Bungalow,Terraced,1983-1990,200
+NE1 1AA,B,85,A,92,Maisonette,End-Terrace,1991-1995,250
+BS1 1AA,C,75,A,92,Flat,Detached,1996-2002,45
+BT1 1AA,D,65,B,85,House,Semi-Detached,2003-2006,60
+SW1A 1AA,E,55,C,75,Bungalow,Terraced,2007-2011,75
+M1 1AA,F,40,D,65,Maisonette,End-Terrace,2012 onwards,90
+B1 1AA,G,25,E,55,Flat,Detached,Pre 1900,120
+G1 1AA,A,92,A,92,House,Semi-Detached,1900-1929,150
+EH1 1AA,B,85,A,92,Bungalow,Terraced,1930-1949,200
+CF1 1AA,C,75,A,92,Maisonette,End-Terrace,1950-1966,250
+LS1 1AA,D,65,B,85,Flat,Detached,1967-1975,45
+NE1 1AA,E,55,C,75,House,Semi-Detached,1976-1982,60
+BS1 1AA,F,40,D,65,Bungalow,Terraced,1983-1990,75
+BT1 1AA,G,25,E,55,Maisonette,End-Terrace,1991-1995,90
+SW1A 1AA,A,92,A,92,Flat,Detached,1996-2002,120
+M1 1AA,B,85,A,92,House,Semi-Detached,2003-2006,150
+B1 1AA,C,75,A,92,Bungalow,Terraced,2007-2011,200
+G1 1AA,D,65,B,85,Maisonette,End-Terrace,2012 onwards,250
+EH1 1AA,E,55,C,75,Flat,Detached,Pre 1900,45
+CF1 1AA,F,40,D,65,House,Semi-Detached,1900-1929,60
+LS1 1AA,G,25,E,55,Bungalow,Terraced,1930-1949,75
+NE1 1AA,A,92,A,92,Maisonette,End-Terrace,1950-1966,90
+BS1 1AA,B,85,A,92,Flat,Detached,1967-1975,120
+BT1 1AA,C,75,A,92,House,Semi-Detached,1976-1982,150
+SW1A 1AA,D,65,B,85,Bungalow,Terraced,1983-1990,200
+M1 1AA,E,55,C,75,Maisonette,End-Terrace,1991-1995,250
+B1 1AA,F,40,D,65,Flat,Detached,1996-2002,45
+G1 1AA,G,25,E,55,House,Semi-Detached,2003-2006,60
+EH1 1AA,A,92,A,92,Bungalow,Terraced,2007-2011,75
+CF1 1AA,B,85,A,92,Maisonette,End-Terrace,2012 onwards,90
+LS1 1AA,C,75,A,92,Flat,Detached,Pre 1900,120
+NE1 1AA,D,65,B,85,House,Semi-Detached,1900-1929,150
+BS1 1AA,E,55,C,75,Bungalow,Terraced,1930-1949,200
+BT1 1AA,F,40,D,65,Maisonette,End-Terrace,1950-1966,250
+SW1A 1AA,G,25,E,55,Flat,Detached,1967-1975,45
+M1 1AA,A,92,A,92,House,Semi-Detached,1976-1982,60
+B1 1AA,B,85,A,92,Bungalow,Terraced,1983-1990,75
+G1 1AA,C,75,A,92,Maisonette,End-Terrace,1991-1995,90
+EH1 1AA,D,65,B,85,Flat,Detached,1996-2002,120
+CF1 1AA,E,55,C,75,House,Semi-Detached,2003-2006,150
+LS1 1AA,F,40,D,65,Bungalow,Terraced,2007-2011,200
+NE1 1AA,G,25,E,55,Maisonette,End-Terrace,2012 onwards,250
+BS1 1AA,A,92,A,92,Flat,Detached,Pre 1900,45
+BT1 1AA,B,85,A,92,House,Semi-Detached,1900-1929,60
+SW1A 1AA,C,75,A,92,Bungalow,Terraced,1930-1949,75
+M1 1AA,D,65,B,85,Maisonette,End-Terrace,1950-1966,90
+B1 1AA,E,55,C,75,Flat,Detached,1967-1975,120
+G1 1AA,F,40,D,65,House,Semi-Detached,1976-1982,150
+EH1 1AA,G,25,E,55,Bungalow,Terraced,1983-1990,200
+CF1 1AA,A,92,A,92,Maisonette,End-Terrace,1991-1995,250
+LS1 1AA,B,85,A,92,Flat,Detached,1996-2002,45
+NE1 1AA,C,75,A,92,House,Semi-Detached,2003-2006,60
+BS1 1AA,D,65,B,85,Bungalow,Terraced,2007-2011,75
+BT1 1AA,E,55,C,75,Maisonette,End-Terrace,2012 onwards,90
+SW1A 1AA,F,40,D,65,Flat,Detached,Pre 1900,120
+M1 1AA,G,25,E,55,House,Semi-Detached,1900-1929,150
+B1 1AA,A,92,A,92,Bungalow,Terraced,1930-1949,200
+G1 1AA,B,85,A,92,Maisonette,End-Terrace,1950-1966,250
+EH1 1AA,C,75,A,92,Flat,Detached,1967-1975,45
+CF1 1AA,D,65,B,85,House,Semi-Detached,1976-1982,60
+LS1 1AA,E,55,C,75,Bungalow,Terraced,1983-1990,75
+NE1 1AA,F,40,D,65,Maisonette,End-Terrace,1991-1995,90
+BS1 1AA,G,25,E,55,Flat,Detached,1996-2002,120
+BT1 1AA,A,92,A,92,House,Semi-Detached,2003-2006,150
+SW1A 1AA,B,85,A,92,Bungalow,Terraced,2007-2011,200
+M1 1AA,C,75,A,92,Maisonette,End-Terrace,2012 onwards,250
+B1 1AA,D,65,B,85,Flat,Detached,Pre 1900,45
+G1 1AA,E,55,C,75,House,Semi-Detached,1900-1929,60
+EH1 1AA,F,40,D,65,Bungalow,Terraced,1930-1949,75
+CF1 1AA,G,25,E,55,Maisonette,End-Terrace,1950-1966,90
+LS1 1AA,A,92,A,92,Flat,Detached,1967-1975,120
+NE1 1AA,B,85,A,92,House,Semi-Detached,1976-1982,150
+BS1 1AA,C,75,A,92,Bungalow,Terraced,1983-1990,200
+BT1 1AA,D,65,B,85,Maisonette,End-Terrace,1991-1995,250
+SW1A 1AA,E,55,C,75,Flat,Detached,1996-2002,45
+M1 1AA,F,40,D,65,House,Semi-Detached,2003-2006,60
+B1 1AA,G,25,E,55,Bungalow,Terraced,2007-2011,75
+G1 1AA,A,92,A,92,Maisonette,End-Terrace,2012 onwards,90
+EH1 1AA,B,85,A,92,Flat,Detached,Pre 1900,120
+CF1 1AA,C,75,A,92,House,Semi-Detached,1900-1929,150
+LS1 1AA,D,65,B,85,Bungalow,Terraced,1930-1949,200
+NE1 1AA,E,55,C,75,Maisonette,End-Terrace,1950-1966,250
+BS1 1AA,F,40,D,65,Flat,Detached,1967-1975,45
+BT1 1AA,G,25,E,55,House,Semi-Detached,1976-1982,60
+SW1A 1AA,A,92,A,92,Bungalow,Terraced,1983-1990,75
+M1 1AA,B,85,A,92,Maisonette,End-Terrace,1991-1995,90
+B1 1AA,C,75,A,92,Flat,Detached,1996-2002,120
+G1 1AA,D,65,B,85,House,Semi-Detached,2003-2006,150
+EH1 1AA,E,55,C,75,Bungalow,Terraced,2007-2011,200
+CF1 1AA,F,40,D,65,Maisonette,End-Terrace,2012 onwards,250
+LS1 1AA,G,25,E,55,Flat,Detached,Pre 1900,45
+NE1 1AA,A,92,A,92,House,Semi-Detached,1900-1929,60
+BS1 1AA,B,85,A,92,Bungalow,Terraced,1930-1949,75
+BT1 1AA,C,75,A,92,Maisonette,End-Terrace,1950-1966,90
+SW1A 1AA,D,65,B,85,Flat,Detached,1967-1975,120
+M1 1AA,E,55,C,75,House,Semi-Detached,1976-1982,150
+B1 1AA,F,40,D,65,Bungalow,Terraced,1983-1990,200
+G1 1AA,G,25,E,55,Maisonette,End-Terrace,1991-1995,250
+EH1 1AA,A,92,A,92,Flat,Detached,1996-2002,45
+CF1 1AA,B,85,A,92,House,Semi-Detached,2003-2006,60
+LS1 1AA,C,75,A,92,Bungalow,Terraced,2007-2011,75
+NE1 1AA,D,65,B,85,Maisonette,End-Terrace,2012 onwards,90
+BS1 1AA,E,55,C,75,Flat,Detached,Pre 1900,120
+BT1 1AA,F,40,D,65,House,Semi-Detached,1900-1929,150
+SW1A 1AA,G,25,E,55,Bungalow,Terraced,1930-1949,200
+M1 1AA,A,92,A,92,Maisonette,End-Terrace,1950-1966,250
+B1 1AA,B,85,A,92,Flat,Detached,1967-1975,45
+G1 1AA,C,75,A,92,House,Semi-Detached,1976-1982,60
+EH1 1AA,D,65,B,85,Bungalow,Terraced,1983-1990,75
+CF1 1AA,E,55,C,75,Maisonette,End-Terrace,1991-1995,90
+LS1 1AA,F,40,D,65,Flat,Detached,1996-2002,120
+NE1 1AA,G,25,E,55,House,Semi-Detached,2003-2006,150
+BS1 1AA,A,92,A,92,Bungalow,Terraced,2007-2011,200
+BT1 1AA,B,85,A,92,Maisonette,End-Terrace,2012 onwards,250
+SW1A 1AA,C,75,A,92,Flat,Detached,Pre 1900,45
+M1 1AA,D,65,B,85,House,Semi-Detached,1900-1929,60
+B1 1AA,E,55,C,75,Bungalow,Terraced,1930-1949,75
+G1 1AA,F,40,D,65,Maisonette,End-Terrace,1950-1966,90
+EH1 1AA,G,25,E,55,Flat,Detached,1967-1975,120
+CF1 1AA,A,92,A,92,House,Semi-Detached,1976-1982,150
+LS1 1AA,B,85,A,92,Bungalow,Terraced,1983-1990,200
+NE1 1AA,C,75,A,92,Maisonette,End-Terrace,1991-1995,250
+BS1 1AA,D,65,B,85,Flat,Detached,1996-2002,45
+BT1 1AA,E,55,C,75,House,Semi-Detached,2003-2006,60
+SW1A 1AA,F,40,D,65,Bungalow,Terraced,2007-2011,75
+M1 1AA,G,25,E,55,Maisonette,End-Terrace,2012 onwards,90
+B1 1AA,A,92,A,92,Flat,Detached,Pre 1900,120
+G1 1AA,B,85,A,92,House,Semi-Detached,1900-1929,150
+EH1 1AA,C,75,A,92,Bungalow,Terraced,1930-1949,200
+CF1 1AA,D,65,B,85,Maisonette,End-Terrace,1950-1966,250
+LS1 1AA,E,55,C,75,Flat,Detached,1967-1975,45
+NE1 1AA,F,40,D,65,House,Semi-Detached,1976-1982,60
+BS1 1AA,G,25,E,55,Bungalow,Terraced,1983-1990,75
+BT1 1AA,A,92,A,92,Maisonette,End-Terrace,1991-1995,90
+SW1A 1AA,B,85,A,92,Flat,Detached,1996-2002,120
+M1 1AA,C,75,A,92,House,Semi-Detached,2003-2006,150
+B1 1AA,D,65,B,85,Bungalow,Terraced,2007-2011,200
+G1 1AA,E,55,C,75,Maisonette,End-Terrace,2012 onwards,250
+EH1 1AA,F,40,D,65,Flat,Detached,Pre 1900,45
+CF1 1AA,G,25,E,55,House,Semi-Detached,1900-1929,60
+LS1 1AA,A,92,A,92,Bungalow,Terraced,1930-1949,75
+NE1 1AA,B,85,A,92,Maisonette,End-Terrace,1950-1966,90
+BS1 1AA,C,75,A,92,Flat,Detached,1967-1975,120
+BT1 1AA,D,65,B,85,House,Semi-Detached,1976-1982,150
+SW1A 1AA,E,55,C,75,Bungalow,Terraced,1983-1990,200
+M1 1AA,F,40,D,65,Maisonette,End-Terrace,1991-1995,250
+B1 1AA,G,25,E,55,Flat,Detached,1996-2002,45
+G1 1AA,A,92,A,92,House,Semi-Detached,2003-2006,60
+EH1 1AA,B,85,A,92,Bungalow,Terraced,2007-2011,75
+CF1 1AA,C,75,A,92,Maisonette,End-Terrace,2012 onwards,90
+LS1 1AA,D,65,B,85,Flat,Detached,Pre 1900,120
+NE1 1AA,E,55,C,75,House,Semi-Detached,1900-1929,150
+BS1 1AA,F,40,D,65,Bungalow,Terraced,1930-1949,200
+BT1 1AA,G,25,E,55,Maisonette,End-Terrace,1950-1966,250
+SW1A 1AA,A,92,A,92,Flat,Detached,1967-1975,45
+M1 1AA,B,85,A,92,House,Semi-Detached,1976-1982,60
+B1 1AA,C,75,A,92,Bungalow,Terraced,1983-1990,75
+G1 1AA,D,65,B,85,Maisonette,End-Terrace,1991-1995,90
+EH1 1AA,E,55,C,75,Flat,Detached,1996-2002,120
+CF1 1AA,F,40,D,65,House,Semi-Detached,2003-2006,150
+LS1 1AA,G,25,E,55,Bungalow,Terraced,2007-2011,200
+NE1 1AA,A,92,A,92,Maisonette,End-Terrace,2012 onwards,250
+BS1 1AA,B,85,A,92,Flat,Detached,Pre 1900,45
+BT1 1AA,C,75,A,92,House,Semi-Detached,1900-1929,60
+SW1A 1AA,D,65,B,85,Bungalow,Terraced,1930-1949,75
+M1 1AA,E,55,C,75,Maisonette,End-Terrace,1950-1966,90
+B1 1AA,F,40,D,65,Flat,Detached,1967-1975,120
+G1 1AA,G,25,E,55,House,Semi-Detached,1976-1982,150
+EH1 1AA,A,92,A,92,Bungalow,Terraced,1983-1990,200
+CF1 1AA,B,85,A,92,Maisonette,End-Terrace,1991-1995,250
+LS1 1AA,C,75,A,92,Flat,Detached,1996-2002,45
+NE1 1AA,D,65,B,85,House,Semi-Detached,2003-2006,60
+BS1 1AA,E,55,C,75,Bungalow,Terraced,2007-2011,75
+BT1 1AA,F,40,D,65,Maisonette,End-Terrace,2012 onwards,90
+SW1A 1AA,G,25,E,55,Flat,Detached,Pre 1900,120
+M1 1AA,A,92,A,92,House,Semi-Detached,1900-1929,150
+B1 1AA,B,85,A,92,Bungalow,Terraced,1930-1949,200
+G1 1AA,C,75,A,92,Maisonette,End-Terrace,1950-1966,250
+EH1 1AA,D,65,B,85,Flat,Detached,1967-1975,45
+CF1 1AA,E,55,C,75,House,Semi-Detached,1976-1982,60
+LS1 1AA,F,40,D,65,Bungalow,Terraced,1983-1990,75
+NE1 1AA,G,25,E,55,Maisonette,End-Terrace,1991-1995,90
+BS1 1AA,A,92,A,92,Flat,Detached,1996-2002,120
+BT1 1AA,B,85,A,92,House,Semi-Detached,2003-2006,150
+SW1A 1AA,C,75,A,92,Bungalow,Terraced,2007-2011,200
+M1 1AA,D,65,B,85,Maisonette,End-Terrace,2012 onwards,250
+B1 1AA,E,55,C,75,Flat,Detached,Pre 1900,45
+G1 1AA,F,40,D,65,House,Semi-Detached,1900-1929,60
+EH1 1AA,G,25,E,55,Bungalow,Terraced,1930-1949,75
+CF1 1AA,A,92,A,92,Maisonette,End-Terrace,1950-1966,90
+LS1 1AA,B,85,A,92,Flat,Detached,1967-1975,120
+NE1 1AA,C,75,A,92,House,Semi-Detached,1976-1982,150
+BS1 1AA,D,65,B,85,Bungalow,Terraced,1983-1990,200
+BT1 1AA,E,55,C,75,Maisonette,End-Terrace,1991-1995,250
+SW1A 1AA,F,40,D,65,Flat,Detached,1996-2002,45
+M1 1AA,G,25,E,55,House,Semi-Detached,2003-2006,60
+B1 1AA,A,92,A,92,Bungalow,Terraced,2007-2011,75
+G1 1AA,B,85,A,92,Maisonette,End-Terrace,2012 onwards,90
+EH1 1AA,C,75,A,92,Flat,Detached,Pre 1900,120
+CF1 1AA,D,65,B,85,House,Semi-Detached,1900-1929,150
+LS1 1AA,E,55,C,75,Bungalow,Terraced,1930-1949,200
+NE1 1AA,F,40,D,65,Maisonette,End-Terrace,1950-1966,250
+BS1 1AA,G,25,E,55,Flat,Detached,1967-1975,45
+BT1 1AA,A,92,A,92,House,Semi-Detached,1976-1982,60
+SW1A 1AA,B,85,A,92,Bungalow,Terraced,1983-1990,75
+M1 1AA,C,75,A,92,Maisonette,End-Terrace,1991-1995,90
+B1 1AA,D,65,B,85,Flat,Detached,1996-2002,120
+G1 1AA,E,55,C,75,House,Semi-Detached,2003-2006,150
+EH1 1AA,F,40,D,65,Bungalow,Terraced,2007-2011,200
+CF1 1AA,G,25,E,55,Maisonette,End-Terrace,2012 onwards,250
+LS1 1AA,A,92,A,92,Flat,Detached,Pre 1900,45
+NE1 1AA,B,85,A,92,House,Semi-Detached,1900-1929,60
+BS1 1AA,C,75,A,92,Bungalow,Terraced,1930-1949,75
+BT1 1AA,D,65,B,85,Maisonette,End-Terrace,1950-1966,90
+SW1A 1AA,E,55,C,75,Flat,Detached,1967-1975,120
+M1 1AA,F,40,D,65,House,Semi-Detached,1976-1982,150
+B1 1AA,G,25,E,55,Bungalow,Terraced,1983-1990,200
+G1 1AA,A,92,A,92,Maisonette,End-Terrace,1991-1995,250
+EH1 1AA,B,85,A,92,Flat,Detached,1996-2002,45
+CF1 1AA,C,75,A,92,House,Semi-Detached,2003-2006,60
+LS1 1AA,D,65,B,85,Bungalow,Terraced,2007-2011,75
+NE1 1AA,E,55,C,75,Maisonette,End-Terrace,2012 onwards,90
+BS1 1AA,F,40,D,65,Flat,Detached,Pre 1900,120
+BT1 1AA,G,25,E,55,House,Semi-Detached,1900-1929,150
+SW1A 1AA,A,92,A,92,Bungalow,Terraced,1930-1949,200
+M1 1AA,B,85,A,92,Maisonette,End-Terrace,1950-1966,250
+B1 1AA,C,75,A,92,Flat,Detached,1967-1975,45
+G1 1AA,D,65,B,85,House,Semi-Detached,1976-1982,60
+EH1 1AA,E,55,C,75,Bungalow,Terraced,1983-1990,75
+CF1 1AA,F,40,D,65,Maisonette,End-Terrace,1991-1995,90
+LS1 1AA,G,25,E,55,Flat,Detached,1996-2002,120
+NE1 1AA,A,92,A,92,House,Semi-Detached,2003-2006,150
+BS1 1AA,B,85,A,92,Bungalow,Terraced,2007-2011,200
+BT1 1AA,C,75,A,92,Maisonette,End-Terrace,2012 onwards,250
+SW1A 1AA,D,65,B,85,Flat,Detached,Pre 1900,45
+M1 1AA,E,55,C,75,House,Semi-Detached,1900-1929,60
+B1 1AA,F,40,D,65,Bungalow,Terraced,1930-1949,75
+G1 1AA,G,25,E,55,Maisonette,End-Terrace,1950-1966,90
+EH1 1AA,A,92,A,92,Flat,Detached,1967-1975,120
+CF1 1AA,B,85,A,92,House,Semi-Detached,1976-1982,150
+LS1 1AA,C,75,A,92,Bungalow,Terraced,1983-1990,200
+NE1 1AA,D,65,B,85,Maisonette,End-Terrace,1991-1995,250
+BS1 1AA,E,55,C,75,Flat,Detached,1996-2002,45
+BT1 1AA,F,40,D,65,House,Semi-Detached,2003-2006,60
+SW1A 1AA,G,25,E,55,Bungalow,Terraced,2007-2011,75
+M1 1AA,A,92,A,92,Maisonette,End-Terrace,2012 onwards,90
+B1 1AA,B,85,A,92,Flat,Detached,Pre 1900,120
+G1 1AA,C,75,A,92,House,Semi-Detached,1900-1929,150
+EH1 1AA,D,65,B,85,Bungalow,Terraced,1930-1949,200
+CF1 1AA,E,55,C,75,Maisonette,End-Terrace,1950-1966,250
+LS1 1AA,F,40,D,65,Flat,Detached,1967-1975,45
+NE1 1AA,G,25,E,55,House,Semi-Detached,1976-1982,60
+BS1 1AA,A,92,A,92,Bungalow,Terraced,1983-1990,75
+BT1 1AA,B,85,A,92,Maisonette,End-Terrace,1991-1995,90
+SW1A 1AA,C,75,A,92,Flat,Detached,1996-2002,120
+M1 1AA,D,65,B,85,House,Semi-Detached,2003-2006,150
+B1 1AA,E,55,C,75,Bungalow,Terraced,2007-2011,200
+G1 1AA,F,40,D,65,Maisonette,End-Terrace,2012 onwards,250
+EH1 1AA,G,25,E,55,Flat,Detached,Pre 1900,45
+CF1 1AA,A,92,A,92,House,Semi-Detached,1900-1929,60
+LS1 1AA,B,85,A,92,Bungalow,Terraced,1930-1949,75
+NE1 1AA,C,75,A,92,Maisonette,End-Terrace,1950-1966,90
+BS1 1AA,D,65,B,85,Flat,Detached,1967-1975,120
+BT1 1AA,E,55,C,75,House,Semi-Detached,1976-1982,150
+SW1A 1AA,F,40,D,65,Bungalow,Terraced,1983-1990,200
+M1 1AA,G,25,E,55,Maisonette,End-Terrace,1991-1995,250
+B1 1AA,A,92,A,92,Flat,Detached,1996-2002,45
+G1 1AA,B,85,A,92,House,Semi-Detached,2003-2006,60
+EH1 1AA,C,75,A,92,Bungalow,Terraced,2007-2011,75
+CF1 1AA,D,65,B,85,Maisonette,End-Terrace,2012 onwards,90
+LS1 1AA,E,55,C,75,Flat,Detached,Pre 1900,120
+NE1 1AA,F,40,D,65,House,Semi-Detached,1900-1929,150
+BS1 1AA,G,25,E,55,Bungalow,Terraced,1930-1949,200
+BT1 1AA,A,92,A,92,Maisonette,End-Terrace,1950-1966,250
+SW1A 1AA,B,85,A,92,Flat,Detached,1967-1975,45
+M1 1AA,C,75,A,92,House,Semi-Detached,1976-1982,60
+B1 1AA,D,65,B,85,Bungalow,Terraced,1983-1990,75
+G1 1AA,E,55,C,75,Maisonette,End-Terrace,1991-1995,90
+EH1 1AA,F,40,D,65,Flat,Detached,1996-2002,120
+CF1 1AA,G,25,E,55,House,Semi-Detached,2003-2006,150
+LS1 1AA,A,92,A,92,Bungalow,Terraced,2007-2011,200
+NE1 1AA,B,85,A,92,Maisonette,End-Terrace,2012 onwards,250
+BS1 1AA,C,75,A,92,Flat,Detached,Pre 1900,45
+BT1 1AA,D,65,B,85,House,Semi-Detached,1900-1929,60
+SW1A 1AA,E,55,C,75,Bungalow,Terraced,1930-1949,75
+M1 1AA,F,40,D,65,Maisonette,End-Terrace,1950-1966,90
+B1 1AA,G,25,E,55,Flat,Detached,1967-1975,120
+G1 1AA,A,92,A,92,House,Semi-Detached,1976-1982,150
+EH1 1AA,B,85,A,92,Bungalow,Terraced,1983-1990,200
+CF1 1AA,C,75,A,92,Maisonette,End-Terrace,1991-1995,250
+LS1 1AA,D,65,B,85,Flat,Detached,1996-2002,45
+NE1 1AA,E,55,C,75,House,Semi-Detached,2003-2006,60
+BS1 1AA,F,40,D,65,Bungalow,Terraced,2007-2011,75
+BT1 1AA,G,25,E,55,Maisonette,End-Terrace,2012 onwards,90
+SW1A 1AA,A,92,A,92,Flat,Detached,Pre 1900,120
+M1 1AA,B,85,A,92,House,Semi-Detached,1900-1929,150
+B1 1AA,C,75,A,92,Bungalow,Terraced,1930-1949,200
+G1 1AA,D,65,B,85,Maisonette,End-Terrace,1950-1966,250
+EH1 1AA,E,55,C,75,Flat,Detached,1967-1975,45
+CF1 1AA,F,40,D,65,House,Semi-Detached,1976-1982,60
+LS1 1AA,G,25,E,55,Bungalow,Terraced,1983-1990,75
+NE1 1AA,A,92,A,92,Maisonette,End-Terrace,1991-1995,90
+BS1 1AA,B,85,A,92,Flat,Detached,1996-2002,120
+BT1 1AA,C,75,A,92,House,Semi-Detached,2003-2006,150
+SW1A 1AA,D,65,B,85,Bungalow,Terraced,2007-2011,200
+M1 1AA,E,55,C,75,Maisonette,End-Terrace,2012 onwards,250
+B1 1AA,F,40,D,65,Flat,Detached,Pre 1900,45
+G1 1AA,G,25,E,55,House,Semi-Detached,1900-1929,60
+EH1 1AA,A,92,A,92,Bungalow,Terraced,1930-1949,75
+CF1 1AA,B,85,A,92,Maisonette,End-Terrace,1950-1966,90
+LS1 1AA,C,75,A,92,Flat,Detached,1967-1975,120
+NE1 1AA,D,65,B,85,House,Semi-Detached,1976-1982,150
+BS1 1AA,E,55,C,75,Bungalow,Terraced,1983-1990,200
+BT1 1AA,F,40,D,65,Maisonette,End-Terrace,1991-1995,250
+SW1A 1AA,G,25,E,55,Flat,Detached,1996-2002,45
+M1 1AA,A,92,A,92,House,Semi-Detached,2003-2006,60
+B1 1AA,B,85,A,92,Bungalow,Terraced,2007-2011,75
+G1 1AA,C,75,A,92,Maisonette,End-Terrace,2012 onwards,90
+EH1 1AA,D,65,B,85,Flat,Detached,Pre 1900,120
+CF1 1AA,E,55,C,75,House,Semi-Detached,1900-1929,150
+LS1 1AA,F,40,D,65,Bungalow,Terraced,1930-1949,200
+NE1 1AA,G,25,E,55,Maisonette,End-Terrace,1950-1966,250
+BS1 1AA,A,92,A,92,Flat,Detached,1967-1975,45
+BT1 1AA,B,85,A,92,House,Semi-Detached,1976-1982,60
+SW1A 1AA,C,75,A,92,Bungalow,Terraced,1983-1990,75
+M1 1AA,D,65,B,85,Maisonette,End-Terrace,1991-1995,90
+B1 1AA,E,55,C,75,Flat,Detached,1996-2002,120
+G1 1AA,F,40,D,65,House,Semi-Detached,2003-2006,150
+EH1 1AA,G,25,E,55,Bungalow,Terraced,2007-2011,200
+CF1 1AA,A,92,A,92,Maisonette,End-Terrace,2012 onwards,250
+LS1 1AA,B,85,A,92,Flat,Detached,Pre 1900,45
+NE1 1AA,C,75,A,92,House,Semi-Detached,1900-1929,60
+BS1 1AA,D,65,B,85,Bungalow,Terraced,1930-1949,75
+BT1 1AA,E,55,C,75,Maisonette,End-Terrace,1950-1966,90
+SW1A 1AA,F,40,D,65,Flat,Detached,1967-1975,120
+M1 1AA,G,25,E,55,House,Semi-Detached,1976-1982,150
+B1 1AA,A,92,A,92,Bungalow,Terraced,1983-1990,200
+G1 1AA,B,85,A,92,Maisonette,End-Terrace,1991-1995,250
+EH1 1AA,C,75,A,92,Flat,Detached,1996-2002,45
+CF1 1AA,D,65,B,85,House,Semi-Detached,2003-2006,60
+LS1 1AA,E,55,C,75,Bungalow,Terraced,2007-2011,75
+NE1 1AA,F,40,D,65,Maisonette,End-Terrace,2012 onwards,90
+BS1 1AA,G,25,E,55,Flat,Detached,Pre 1900,120
+BT1 1AA,A,92,A,92,House,Semi-Detached,1900-1929,150
+SW1A 1AA,B,85,A,92,Bungalow,Terraced,1930-1949,200
+M1 1AA,C,75,A,92,Maisonette,End-Terrace,1950-1966,250
+B1 1AA,D,65,B,85,Flat,Detached,1967-1975,45
+G1 1AA,E,55,C,75,House,Semi-Detached,1976-1982,60
+EH1 1AA,F,40,D,65,Bungalow,Terraced,1983-1990,75
+CF1 1AA,G,25,E,55,Maisonette,End-Terrace,1991-1995,90
+LS1 1AA,A,92,A,92,Flat,Detached,1996-2002,120
+NE1 1AA,B,85,A,92,House,Semi-Detached,2003-2006,150
+BS1 1AA,C,75,A,92,Bungalow,Terraced,2007-2011,200
+BT1 1AA,D,65,B,85,Maisonette,End-Terrace,2012 onwards,250
+SW1A 1AA,E,55,C,75,Flat,Detached,Pre 1900,45
+M1 1AA,F,40,D,65,House,Semi-Detached,1900-1929,60
+B1 1AA,G,25,E,55,Bungalow,Terraced,1930-1949,75
+G1 1AA,A,92,A,92,Maisonette,End-Terrace,1950-1966,90
+EH1 1AA,B,85,A,92,Flat,Detached,1967-1975,120
+CF1 1AA,C,75,A,92,House,Semi-Detached,1976-1982,150
+LS1 1AA,D,65,B,85,Bungalow,Terraced,1983-1990,200
+NE1 1AA,E,55,C,75,Maisonette,End-Terrace,1991-1995,250
+BS1 1AA,F,40,D,65,Flat,Detached,1996-2002,45
+BT1 1AA,G,25,E,55,House,Semi-Detached,2003-2006,60
+SW1A 1AA,A,92,A,92,Bungalow,Terraced,2007-2011,75
+M1 1AA,B,85,A,92,Maisonette,End-Terrace,2012 onwards,90
+B1 1AA,C,75,A,92,Flat,Detached,Pre 1900,120
+G1 1AA,D,65,B,85,House,Semi-Detached,1900-1929,150
+EH1 1AA,E,55,C,75,Bungalow,Terraced,1930-1949,200
+CF1 1AA,F,40,D,65,Maisonette,End-Terrace,1950-1966,250
+LS1 1AA,G,25,E,55,Flat,Detached,1967-1975,45
+NE1 1AA,A,92,A,92,House,Semi-Detached,1976-1982,60
+BS1 1AA,B,85,A,92,Bungalow,Terraced,1983-1990,75
+BT1 1AA,C,75,A,92,Maisonette,End-Terrace,1991-1995,90
+SW1A 1AA,D,65,B,85,Flat,Detached,1996-2002,120
+M1 1AA,E,55,C,75,House,Semi-Detached,2003-2006,150
+B1 1AA,F,40,D,65,Bungalow,Terraced,2007-2011,200
+G1 1AA,G,25,E,55,Maisonette,End-Terrace,2012 onwards,250
+EH1 1AA,A,92,A,92,Flat,Detached,Pre 1900,45
+CF1 1AA,B,85,A,92,House,Semi-Detached,1900-1929,60
+LS1 1AA,C,75,A,92,Bungalow,Terraced,1930-1949,75
+NE1 1AA,D,65,B,85,Maisonette,End-Terrace,1950-1966,90
+BS1 1AA,E,55,C,75,Flat,Detached,1967-1975,120
+BT1 1AA,F,40,D,65,House,Semi-Detached,1976-1982,150
+SW1A 1AA,G,25,E,55,Bungalow,Terraced,1983-1990,200
+M1 1AA,A,92,A,92,Maisonette,End-Terrace,1991-1995,250
+B1 1AA,B,85,A,92,Flat,Detached,1996-2002,45
+G1 1AA,C,75,A,92,House,Semi-Detached,2003-2006,60
+EH1 1AA,D,65,B,85,Bungalow,Terraced,2007-2011,75
+CF1 1AA,E,55,C,75,Maisonette,End-Terrace,2012 onwards,90
+LS1 1AA,F,40,D,65,Flat,Detached,Pre 1900,120
+NE1 1AA,G,25,E,55,House,Semi-Detached,1900-1929,150
+BS1 1AA,A,92,A,92,Bungalow,Terraced,1930-1949,200
+BT1 1AA,B,85,A,92,Maisonette,End-Terrace,1950-1966,250
+SW1A 1AA,C,75,A,92,Flat,Detached,1967-1975,45
+M1 1AA,D,65,B,85,House,Semi-Detached,1976-1982,60
+B1 1AA,E,55,C,75,Bungalow,Terraced,1983-1990,75
+G1 1AA,F,40,D,65,Maisonette,End-Terrace,1991-1995,90
+EH1 1AA,G,25,E,55,Flat,Detached,1996-2002,120
+CF1 1AA,A,92,A,92,House,Semi-Detached,2003-2006,150
+LS1 1AA,B,85,A,92,Bungalow,Terraced,2007-2011,200
+NE1 1AA,C,75,A,92,Maisonette,End-Terrace,2012 onwards,250
+BS1 1AA,D,65,B,85,Flat,Detached,Pre 1900,45
+BT1 1AA,E,55,C,75,House,Semi-Detached,1900-1929,60
+SW1A 1AA,F,40,D,65,Bungalow,Terraced,1930-1949,75
+M1 1AA,G,25,E,55,Maisonette,End-Terrace,1950-1966,90
+B1 1AA,A,92,A,92,Flat,Detached,1967-1975,120
+G1 1AA,B,85,A,92,House,Semi-Detached,1976-1982,150
+EH1 1AA,C,75,A,92,Bungalow,Terraced,1983-1990,200
+CF1 1AA,D,65,B,85,Maisonette,End-Terrace,1991-1995,250
+LS1 1AA,E,55,C,75,Flat,Detached,1996-2002,45
+NE1 1AA,F,40,D,65,House,Semi-Detached,2003-2006,60
+BS1 1AA,G,25,E,55,Bungalow,Terraced,2007-2011,75
+BT1 1AA,A,92,A,92,Maisonette,End-Terrace,2012 onwards,90
+SW1A 1AA,B,85,A,92,Flat,Detached,Pre 1900,120
+M1 1AA,C,75,A,92,House,Semi-Detached,1900-1929,150
+B1 1AA,D,65,B,85,Bungalow,Terraced,1930-1949,200
+G1 1AA,E,55,C,75,Maisonette,End-Terrace,1950-1966,250
+EH1 1AA,F,40,D,65,Flat,Detached,1967-1975,45
+CF1 1AA,G,25,E,55,House,Semi-Detached,1976-1982,60
+LS1 1AA,A,92,A,92,Bungalow,Terraced,1983-1990,75
+NE1 1AA,B,85,A,92,Maisonette,End-Terrace,1991-1995,90
+BS1 1AA,C,75,A,92,Flat,Detached,1996-2002,120
+BT1 1AA,D,65,B,85,House,Semi-Detached,2003-2006,150
+SW1A 1AA,E,55,C,75,Bungalow,Terraced,2007-2011,200
+M1 1AA,F,40,D,65,Maisonette,End-Terrace,2012 onwards,250
+B1 1AA,G,25,E,55,Flat,Detached,Pre 1900,45
+G1 1AA,A,92,A,92,House,Semi-Detached,1900-1929,60
+EH1 1AA,B,85,A,92,Bungalow,Terraced,1930-1949,75
+CF1 1AA,C,75,A,92,Maisonette,End-Terrace,1950-1966,90
+LS1 1AA,D,65,B,85,Flat,Detached,1967-1975,120
+NE1 1AA,E,55,C,75,House,Semi-Detached,1976-1982,150
+BS1 1AA,F,40,D,65,Bungalow,Terraced,1983-1990,200
+BT1 1AA,G,25,E,55,Maisonette,End-Terrace,1991-1995,250
+SW1A 1AA,A,92,A,92,Flat,Detached,1996-2002,45
+M1 1AA,B,85,A,92,House,Semi-Detached,2003-2006,60
+B1 1AA,C,75,A,92,Bungalow,Terraced,2007-2011,75
+G1 1AA,D,65,B,85,Maisonette,End-Terrace,2012 onwards,90
+EH1 1AA,E,55,C,75,Flat,Detached,Pre 1900,120
+CF1 1AA,F,40,D,65,House,Semi-Detached,1900-1929,150
+LS1 1AA,G,25,E,55,Bungalow,Terraced,1930-1949,200
+NE1 1AA,A,92,A,92,Maisonette,End-Terrace,1950-1966,250
+BS1 1AA,B,85,A,92,Flat,Detached,1967-1975,45
+BT1 1AA,C,75,A,92,House,Semi-Detached,1976-1982,60
+SW1A 1AA,D,65,B,85,Bungalow,Terraced,1983-1990,75
+M1 1AA,E,55,C,75,Maisonette,End-Terrace,1991-1995,90
+B1 1AA,F,40,D,65,Flat,Detached,1996-2002,120
+G1 1AA,G,25,E,55,House,Semi-Detached,2003-2006,150
+EH1 1AA,A,92,A,92,Bungalow,Terraced,2007-2011,200
+CF1 1AA,B,85,A,92,Maisonette,End-Terrace,2012 onwards,250
+LS1 1AA,C,75,A,92,Flat,Detached,Pre 1900,45
+NE1 1AA,D,65,B,85,House,Semi-Detached,1900-1929,60
+BS1 1AA,E,55,C,75,Bungalow,Terraced,1930-1949,75
+BT1 1AA,F,40,D,65,Maisonette,End-Terrace,1950-1966,90
+SW1A 1AA,G,25,E,55,Flat,Detached,1967-1975,120
+M1 1AA,A,92,A,92,House,Semi-Detached,1976-1982,150
+B1 1AA,B,85,A,92,Bungalow,Terraced,1983-1990,200
+G1 1AA,C,75,A,92,Maisonette,End-Terrace,1991-1995,250
+EH1 1AA,D,65,B,85,Flat,Detached,1996-2002,45
+CF1 1AA,E,55,C,75,House,Semi-Detached,2003-2006,60
+LS1 1AA,F,40,D,65,Bungalow,Terraced,2007-2011,75
+NE1 1AA,G,25,E,55,Maisonette,End-Terrace,2012 onwards,90
+BS1 1AA,A,92,A,92,Flat,Detached,Pre 1900,120
+BT1 1AA,B,85,A,92,House,Semi-Detached,1900-1929,150
+SW1A 1AA,C,75,A,92,Bungalow,Terraced,1930-1949,200
+M1 1AA,D,65,B,85,Maisonette,End-Terrace,1950-1966,250
+B1 1AA,E,55,C,75,Flat,Detached,1967-1975,45
+G1 1AA,F,40,D,65,House,Semi-Detached,1976-1982,60
+EH1 1AA,G,25,E,55,Bungalow,Terraced,1983-1990,75
+CF1 1AA,A,92,A,92,Maisonette,End-Terrace,1991-1995,90
+LS1 1AA,B,85,A,92,Flat,Detached,1996-2002,120
+NE1 1AA,C,75,A,92,House,Semi-Detached,2003-2006,150
+BS1 1AA,D,65,B,85,Bungalow,Terraced,2007-2011,200
+BT1 1AA,E,55,C,75,Maisonette,End-Terrace,2012 onwards,250
+SW1A 1AA,F,40,D,65,Flat,Detached,Pre 1900,45
+M1 1AA,G,25,E,55,House,Semi-Detached,1900-1929,60
+B1 1AA,A,92,A,92,Bungalow,Terraced,1930-1949,75
+G1 1AA,B,85,A,92,Maisonette,End-Terrace,1950-1966,90
+EH1 1AA,C,75,A,92,Flat,Detached,1967-1975,120
+CF1 1AA,D,65,B,85,House,Semi-Detached,1976-1982,150
+LS1 1AA,E,55,C,75,Bungalow,Terraced,1983-1990,200
+NE1 1AA,F,40,D,65,Maisonette,End-Terrace,1991-1995,250
+BS1 1AA,G,25,E,55,Flat,Detached,1996-2002,45
+BT1 1AA,A,92,A,92,House,Semi-Detached,2003-2006,60
+SW1A 1AA,B,85,A,92,Bungalow,Terraced,2007-2011,75
+M1 1AA,C,75,A,92,Maisonette,End-Terrace,2012 onwards,90
+B1 1AA,D,65,B,85,Flat,Detached,Pre 1900,120
+G1 1AA,E,55,C,75,House,Semi-Detached,1900-1929,150
+EH1 1AA,F,40,D,65,Bungalow,Terraced,1930-1949,200
+CF1 1AA,G,25,E,55,Maisonette,End-Terrace,1950-1966,250
+LS1 1AA,A,92,A,92,Flat,Detached,1967-1975,45
+NE1 1AA,B,85,A,92,House,Semi-Detached,1976-1982,60
+BS1 1AA,C,75,A,92,Bungalow,Terraced,1983-1990,75
+BT1 1AA,D,65,B,85,Maisonette,End-Terrace,1991-1995,90
+SW1A 1AA,E,55,C,75,Flat,Detached,1996-2002,120
+M1 1AA,F,40,D,65,House,Semi-Detached,2003-2006,150
+B1 1AA,G,25,E,55,Bungalow,Terraced,2007-2011,200
+G1 1AA,A,92,A,92,Maisonette,End-Terrace,2012 onwards,250
+EH1 1AA,B,85,A,92,Flat,Detached,Pre 1900,45
+CF1 1AA,C,75,A,92,House,Semi-Detached,1900-1929,60
+LS1 1AA,D,65,B,85,Bungalow,Terraced,1930-1949,75
+NE1 1AA,E,55,C,75,Maisonette,End-Terrace,1950-1966,90
+BS1 1AA,F,40,D,65,Flat,Detached,1967-1975,120
+BT1 1AA,G,25,E,55,House,Semi-Detached,1976-1982,150
+SW1A 1AA,A,92,A,92,Bungalow,Terraced,1983-1990,200
+M1 1AA,B,85,A,92,Maisonette,End-Terrace,1991-1995,250
+B1 1AA,C,75,A,92,Flat,Detached,1996-2002,45
+G1 1AA,D,65,B,85,House,Semi-Detached,2003-2006,60
+EH1 1AA,E,55,C,75,Bungalow,Terraced,2007-2011,75
+CF1 1AA,F,40,D,65,Maisonette,End-Terrace,2012 onwards,90
+LS1 1AA,G,25,E,55,Flat,Detached,Pre 1900,120
+NE1 1AA,A,92,A,92,House,Semi-Detached,1900-1929,150
+BS1 1AA,B,85,A,92,Bungalow,Terraced,1930-1949,200
+BT1 1AA,C,75,A,92,Maisonette,End-Terrace,1950-1966,250
+SW1A 1AA,D,65,B,85,Flat,Detached,1967-1975,45
+M1 1AA,E,55,C,75,House,Semi-Detached,1976-1982,60
+B1 1AA,F,40,D,65,Bungalow,Terraced,1983-1990,75
+G1 1AA,G,25,E,55,Maisonette,End-Terrace,1991-1995,90
+EH1 1AA,A,92,A,92,Flat,Detached,1996-2002,120
+CF1 1AA,B,85,A,92,House,Semi-Detached,2003-2006,150
+LS1 1AA,C,75,A,92,Bungalow,Terraced,2007-2011,200
+NE1 1AA,D,65,B,85,Maisonette,End-Terrace,2012 onwards,250
+BS1 1AA,E,55,C,75,Flat,Detached,Pre 1900,45
+BT1 1AA,F,40,D,65,House,Semi-Detached,1900-1929,60
+SW1A 1AA,G,25,E,55,Bungalow,Terraced,1930-1949,75
+M1 1AA,A,92,A,92,Maisonette,End-Terrace,1950-1966,90
+B1 1AA,B,85,A,92,Flat,Detached,1967-1975,120
+G1 1AA,C,75,A,92,House,Semi-Detached,1976-1982,150
+EH1 1AA,D,65,B,85,Bungalow,Terraced,1983-1990,200
+CF1 1AA,E,55,C,75,Maisonette,End-Terrace,1991-1995,250
+LS1 1AA,F,40,D,65,Flat,Detached,1996-2002,45
+NE1 1AA,G,25,E,55,House,Semi-Detached,2003-2006,60
+BS1 1AA,A,92,A,92,Bungalow,Terraced,2007-2011,75
+BT1 1AA,B,85,A,92,Maisonette,End-Terrace,2012 onwards,90
+SW1A 1AA,C,75,A,92,Flat,Detached,Pre 1900,120
+M1 1AA,D,65,B,85,House,Semi-Detached,1900-1929,150
+B1 1AA,E,55,C,75,Bungalow,Terraced,1930-1949,200
+G1 1AA,F,40,D,65,Maisonette,End-Terrace,1950-1966,250
+EH1 1AA,G,25,E,55,Flat,Detached,1967-1975,45
+CF1 1AA,A,92,A,92,House,Semi-Detached,1976-1982,60
+LS1 1AA,B,85,A,92,Bungalow,Terraced,1983-1990,75
+NE1 1AA,C,75,A,92,Maisonette,End-Terrace,1991-1995,90
+BS1 1AA,D,65,B,85,Flat,Detached,1996-2002,120
+BT1 1AA,E,55,C,75,House,Semi-Detached,2003-2006,150
+SW1A 1AA,F,40,D,65,Bungalow,Terraced,2007-2011,200
+M1 1AA,G,25,E,55,Maisonette,End-Terrace,2012 onwards,250
+B1 1AA,A,92,A,92,Flat,Detached,Pre 1900,45
+G1 1AA,B,85,A,92,House,Semi-Detached,1900-1929,60
+EH1 1AA,C,75,A,92,Bungalow,Terraced,1930-1949,75
+CF1 1AA,D,65,B,85,Maisonette,End-Terrace,1950-1966,90
+LS1 1AA,E,55,C,75,Flat,Detached,1967-1975,120
+NE1 1AA,F,40,D,65,House,Semi-Detached,1976-1982,150
+BS1 1AA,G,25,E,55,Bungalow,Terraced,1983-1990,200
+BT1 1AA,A,92,A,92,Maisonette,End-Terrace,1991-1995,250
+SW1A 1AA,B,85,A,92,Flat,Detached,1996-2002,45
+M1 1AA,C,75,A,92,House,Semi-Detached,2003-2006,60
+B1 1AA,D,65,B,85,Bungalow,Terraced,2007-2011,75
+G1 1AA,E,55,C,75,Maisonette,End-Terrace,2012 onwards,90
+EH1 1AA,F,40,D,65,Flat,Detached,Pre 1900,120
+CF1 1AA,G,25,E,55,House,Semi-Detached,1900-1929,150
+LS1 1AA,A,92,A,92,Bungalow,Terraced,1930-1949,200
+NE1 1AA,B,85,A,92,Maisonette,End-Terrace,1950-1966,250
+BS1 1AA,C,75,A,92,Flat,Detached,1967-1975,45
+BT1 1AA,D,65,B,85,House,Semi-Detached,1976-1982,60
+SW1A 1AA,E,55,C,75,Bungalow,Terraced,1983-1990,75
+M1 1AA,F,40,D,65,Maisonette,End-Terrace,1991-1995,90
+B1 1AA,G,25,E,55,Flat,Detached,1996-2002,120
+G1 1AA,A,92,A,92,House,Semi-Detached,2003-2006,150
+EH1 1AA,B,85,A,92,Bungalow,Terraced,2007-2011,200
+CF1 1AA,C,75,A,92,Maisonette,End-Terrace,2012 onwards,250
+LS1 1AA,D,65,B,85,Flat,Detached,Pre 1900,45
+NE1 1AA,E,55,C,75,House,Semi-Detached,1900-1929,60
+BS1 1AA,F,40,D,65,Bungalow,Terraced,1930-1949,75
+BT1 1AA,G,25,E,55,Maisonette,End-Terrace,1950-1966,90
+SW1A 1AA,A,92,A,92,Flat,Detached,1967-1975,120
+M1 1AA,B,85,A,92,House,Semi-Detached,1976-1982,150
+B1 1AA,C,75,A,92,Bungalow,Terraced,1983-1990,200
+G1 1AA,D,65,B,85,Maisonette,End-Terrace,1991-1995,250
+EH1 1AA,E,55,C,75,Flat,Detached,1996-2002,45
+CF1 1AA,F,40,D,65,House,Semi-Detached,2003-2006,60
+LS1 1AA,G,25,E,55,Bungalow,Terraced,2007-2011,75
+NE1 1AA,A,92,A,92,Maisonette,End-Terrace,2012 onwards,90
+BS1 1AA,B,85,A,92,Flat,Detached,Pre 1900,120
+BT1 1AA,C,75,A,92,House,Semi-Detached,1900-1929,150
+SW1A 1AA,D,65,B,85,Bungalow,Terraced,1930-1949,200
+M1 1AA,E,55,C,75,Maisonette,End-Terrace,1950-1966,250
+B1 1AA,F,40,D,65,Flat,Detached,1967-1975,45
+G1 1AA,G,25,E,55,House,Semi-Detached,1976-1982,60
+EH1 1AA,A,92,A,92,Bungalow,Terraced,1983-1990,75
+CF1 1AA,B,85,A,92,Maisonette,End-Terrace,1991-1995,90
+LS1 1AA,C,75,A,92,Flat,Detached,1996-2002,120
+NE1 1AA,D,65,B,85,House,Semi-Detached,2003-2006,150
+BS1 1AA,E,55,C,75,Bungalow,Terraced,2007-2011,200
+BT1 1AA,F,40,D,65,Maisonette,End-Terrace,2012 onwards,250
+SW1A 1AA,G,25,E,55,Flat,Detached,Pre 1900,45
+M1 1AA,A,92,A,92,House,Semi-Detached,1900-1929,60
+B1 1AA,B,85,A,92,Bungalow,Terraced,1930-1949,75
+G1 1AA,C,75,A,92,Maisonette,End-Terrace,1950-1966,90
+EH1 1AA,D,65,B,85,Flat,Detached,1967-1975,120
+CF1 1AA,E,55,C,75,House,Semi-Detached,1976-1982,150
+LS1 1AA,F,40,D,65,Bungalow,Terraced,1983-1990,200
+NE1 1AA,G,25,E,55,Maisonette,End-Terrace,1991-1995,250
+BS1 1AA,A,92,A,92,Flat,Detached,1996-2002,45
+BT1 1AA,B,85,A,92,House,Semi-Detached,2003-2006,60
+SW1A 1AA,C,75,A,92,Bungalow,Terraced,2007-2011,75
+M1 1AA,D,65,B,85,Maisonette,End-Terrace,2012 onwards,90
+B1 1AA,E,55,C,75,Flat,Detached,Pre 1900,120
+G1 1AA,F,40,D,65,House,Semi-Detached,1900-1929,150
+EH1 1AA,G,25,E,55,Bungalow,Terraced,1930-1949,200
+CF1 1AA,A,92,A,92,Maisonette,End-Terrace,1950-1966,250
+LS1 1AA,B,85,A,92,Flat,Detached,1967-1975,45
+NE1 1AA,C,75,A,92,House,Semi-Detached,1976-1982,60
+BS1 1AA,D,65,B,85,Bungalow,Terraced,1983-1990,75
+BT1 1AA,E,55,C,75,Maisonette,End-Terrace,1991-1995,90
+SW1A 1AA,F,40,D,65,Flat,Detached,1996-2002,120
+M1 1AA,G,25,E,55,House,Semi-Detached,2003-2006,150
+B1 1AA,A,92,A,92,Bungalow,Terraced,2007-2011,200
+G1 1AA,B,85,A,92,Maisonette,End-Terrace,2012 onwards,250
+EH1 1AA,C,75,A,92,Flat,Detached,Pre 1900,45
+CF1 1AA,D,65,B,85,House,Semi-Detached,1900-1929,60
+LS1 1AA,E,55,C,75,Bungalow,Terraced,1930-1949,75
+NE1 1AA,F,40,D,65,Maisonette,End-Terrace,1950-1966,90
+BS1 1AA,G,25,E,55,Flat,Detached,1967-1975,120
+BT1 1AA,A,92,A,92,House,Semi-Detached,1976-1982,150
+SW1A 1AA,B,85,A,92,Bungalow,Terraced,1983-1990,200
+M1 1AA,C,75,A,92,Maisonette,End-Terrace,1991-1995,250
+B1 1AA,D,65,B,85,Flat,Detached,1996-2002,45
+G1 1AA,E,55,C,75,House,Semi-Detached,2003-2006,60
+EH1 1AA,F,40,D,65,Bungalow,Terraced,2007-2011,75
+CF1 1AA,G,25,E,55,Maisonette,End-Terrace,2012 onwards,90
+LS1 1AA,A,92,A,92,Flat,Detached,Pre 1900,120
+NE1 1AA,B,85,A,92,House,Semi-Detached,1900-1929,150
+BS1 1AA,C,75,A,92,Bungalow,Terraced,1930-1949,200
+BT1 1AA,D,65,B,85,Maisonette,End-Terrace,1950-1966,250
+SW1A 1AA,E,55,C,75,Flat,Detached,1967-1975,45
+M1 1AA,F,40,D,65,House,Semi-Detached,1976-1982,60
+B1 1AA,G,25,E,55,Bungalow,Terraced,1983-1990,75
+G1 1AA,A,92,A,92,Maisonette,End-Terrace,1991-1995,90
+EH1 1AA,B,85,A,92,Flat,Detached,1996-2002,120
+CF1 1AA,C,75,A,92,House,Semi-Detached,2003-2006,150
+LS1 1AA,D,65,B,85,Bungalow,Terraced,2007-2011,200
+NE1 1AA,E,55,C,75,Maisonette,End-Terrace,2012 onwards,250
+BS1 1AA,F,40,D,65,Flat,Detached,Pre 1900,45
+BT1 1AA,G,25,E,55,House,Semi-Detached,1900-1929,60
+SW1A 1AA,A,92,A,92,Bungalow,Terraced,1930-1949,75
+M1 1AA,B,85,A,92,Maisonette,End-Terrace,1950-1966,90
+B1 1AA,C,75,A,92,Flat,Detached,1967-1975,120
+G1 1AA,D,65,B,85,House,Semi-Detached,1976-1982,150
+EH1 1AA,E,55,C,75,Bungalow,Terraced,1983-1990,200
+CF1 1AA,F,40,D,65,Maisonette,End-Terrace,1991-1995,250
+LS1 1AA,G,25,E,55,Flat,Detached,1996-2002,45
+NE1 1AA,A,92,A,92,House,Semi-Detached,2003-2006,60
+BS1 1AA,B,85,A,92,Bungalow,Terraced,2007-2011,75
+BT1 1AA,C,75,A,92,Maisonette,End-Terrace,2012 onwards,90
+SW1A 1AA,D,65,B,85,Flat,Detached,Pre 1900,120
+M1 1AA,E,55,C,75,House,Semi-Detached,1900-1929,150
+B1 1AA,F,40,D,65,Bungalow,Terraced,1930-1949,200
+G1 1AA,G,25,E,55,Maisonette,End-Terrace,1950-1966,250
+EH1 1AA,A,92,A,92,Flat,Detached,1967-1975,45
+CF1 1AA,B,85,A,92,House,Semi-Detached,1976-1982,60
+LS1 1AA,C,75,A,92,Bungalow,Terraced,1983-1990,75
+NE1 1AA,D,65,B,85,Maisonette,End-Terrace,1991-1995,90
+BS1 1AA,E,55,C,75,Flat,Detached,1996-2002,120
+BT1 1AA,F,40,D,65,House,Semi-Detached,2003-2006,150
+SW1A 1AA,G,25,E,55,Bungalow,Terraced,2007-2011,200
+M1 1AA,A,92,A,92,Maisonette,End-Terrace,2012 onwards,250
+B1 1AA,B,85,A,92,Flat,Detached,Pre 1900,45
+G1 1AA,C,75,A,92,House,Semi-Detached,1900-1929,60
+EH1 1AA,D,65,B,85,Bungalow,Terraced,1930-1949,75
+CF1 1AA,E,55,C,75,Maisonette,End-Terrace,1950-1966,90
+LS1 1AA,F,40,D,65,Flat,Detached,1967-1975,120
+NE1 1AA,G,25,E,55,House,Semi-Detached,1976-1982,150
+BS1 1AA,A,92,A,92,Bungalow,Terraced,1983-1990,200
+BT1 1AA,B,85,A,92,Maisonette,End-Terrace,1991-1995,250
+SW1A 1AA,C,75,A,92,Flat,Detached,1996-2002,45
+M1 1AA,D,65,B,85,House,Semi-Detached,2003-2006,60
+B1 1AA,E,55,C,75,Bungalow,Terraced,2007-2011,75
+G1 1AA,F,40,D,65,Maisonette,End-Terrace,2012 onwards,90
+EH1 1AA,G,25,E,55,Flat,Detached,Pre 1900,120
+CF1 1AA,A,92,A,92,House,Semi-Detached,1900-1929,150
+LS1 1AA,B,85,A,92,Bungalow,Terraced,1930-1949,200
+NE1 1AA,C,75,A,92,Maisonette,End-Terrace,1950-1966,250
+BS1 1AA,D,65,B,85,Flat,Detached,1967-1975,45
+BT1 1AA,E,55,C,75,House,Semi-Detached,1976-1982,60
+SW1A 1AA,F,40,D,65,Bungalow,Terraced,1983-1990,75
+M1 1AA,G,25,E,55,Maisonette,End-Terrace,1991-1995,90
+B1 1AA,A,92,A,92,Flat,Detached,1996-2002,120
+G1 1AA,B,85,A,92,House,Semi-Detached,2003-2006,150
+EH1 1AA,C,75,A,92,Bungalow,Terraced,2007-2011,200
+CF1 1AA,D,65,B,85,Maisonette,End-Terrace,2012 onwards,250
+LS1 1AA,E,55,C,75,Flat,Detached,Pre 1900,45
+NE1 1AA,F,40,D,65,House,Semi-Detached,1900-1929,60
+BS1 1AA,G,25,E,55,Bungalow,Terraced,1930-1949,75
+BT1 1AA,A,92,A,92,Maisonette,End-Terrace,1950-1966,90
+SW1A 1AA,B,85,A,92,Flat,Detached,1967-1975,120
+M1 1AA,C,75,A,92,House,Semi-Detached,1976-1982,150
+B1 1AA,D,65,B,85,Bungalow,Terraced,1983-1990,200
+G1 1AA,E,55,C,75,Maisonette,End-Terrace,1991-1995,250
+EH1 1AA,F,40,D,65,Flat,Detached,1996-2002,45
+CF1 1AA,G,25,E,55,House,Semi-Detached,2003-2006,60
+LS1 1AA,A,92,A,92,Bungalow,Terraced,2007-2011,75
+NE1 1AA,B,85,A,92,Maisonette,End-Terrace,2012 onwards,90
+BS1 1AA,C,75,A,92,Flat,Detached,Pre 1900,120
+BT1 1AA,D,65,B,85,House,Semi-Detached,1900-1929,150
+SW1A 1AA,E,55,C,75,Bungalow,Terraced,1930-1949,200
+M1 1AA,F,40,D,65,Maisonette,End-Terrace,1950-1966,250
+B1 1AA,G,25,E,55,Flat,Detached,1967-1975,45
+G1 1AA,A,92,A,92,House,Semi-Detached,1976-1982,60
+EH1 1AA,B,85,A,92,Bungalow,Terraced,1983-1990,75
+CF1 1AA,C,75,A,92,Maisonette,End-Terrace,1991-1995,90
+LS1 1AA,D,65,B,85,Flat,Detached,1996-2002,120
+NE1 1AA,E,55,C,75,House,Semi-Detached,2003-2006,150
+BS1 1AA,F,40,D,65,Bungalow,Terraced,2007-2011,200
+BT1 1AA,G,25,E,55,Maisonette,End-Terrace,2012 onwards,250
+SW1A 1AA,A,92,A,92,Flat,Detached,Pre 1900,45
+M1 1AA,B,85,A,92,House,Semi-Detached,1900-1929,60
+B1 1AA,C,75,A,92,Bungalow,Terraced,1930-1949,75
+G1 1AA,D,65,B,85,Maisonette,End-Terrace,1950-1966,90
+EH1 1AA,E,55,C,75,Flat,Detached,1967-1975,120
+CF1 1AA,F,40,D,65,House,Semi-Detached,1976-1982,150
+LS1 1AA,G,25,E,55,Bungalow,Terraced,1983-1990,200
+NE1 1AA,A,92,A,92,Maisonette,End-Terrace,1991-1995,250
+BS1 1AA,B,85,A,92,Flat,Detached,1996-2002,45
+BT1 1AA,C,75,A,92,House,Semi-Detached,2003-2006,60
+SW1A 1AA,D,65,B,85,Bungalow,Terraced,2007-2011,75
+M1 1AA,E,55,C,75,Maisonette,End-Terrace,2012 onwards,90
+B1 1AA,F,40,D,65,Flat,Detached,Pre 1900,120
+G1 1AA,G,25,E,55,House,Semi-Detached,1900-1929,150
+EH1 1AA,A,92,A,92,Bungalow,Terraced,1930-1949,200
+CF1 1AA,B,85,A,92,Maisonette,End-Terrace,1950-1966,250
+LS1 1AA,C,75,A,92,Flat,Detached,1967-1975,45
+NE1 1AA,D,65,B,85,House,Semi-Detached,1976-1982,60
+BS1 1AA,E,55,C,75,Bungalow,Terraced,1983-1990,75
+BT1 1AA,F,40,D,65,Maisonette,End-Terrace,1991-1995,90
+SW1A 1AA,G,25,E,55,Flat,Detached,1996-2002,120
+M1 1AA,A,92,A,92,House,Semi-Detached,2003-2006,150
+B1 1AA,B,85,A,92,Bungalow,Terraced,2007-2011,200
+G1 1AA,C,75,A,92,Maisonette,End-Terrace,2012 onwards,250
+EH1 1AA,D,65,B,85,Flat,Detached,Pre 1900,45
+CF1 1AA,E,55,C,75,House,Semi-Detached,1900-1929,60
+LS1 1AA,F,40,D,65,Bungalow,Terraced,1930-1949,75
+NE1 1AA,G,25,E,55,Maisonette,End-Terrace,1950-1966,90
+BS1 1AA,A,92,A,92,Flat,Detached,1967-1975,120
+BT1 1AA,B,85,A,92,House,Semi-Detached,1976-1982,150
+SW1A 1AA,C,75,A,92,Bungalow,Terraced,1983-1990,200
+M1 1AA,D,65,B,85,Maisonette,End-Terrace,1991-1995,250
+B1 1AA,E,55,C,75,Flat,Detached,1996-2002,45
+G1 1AA,F,40,D,65,House,Semi-Detached,2003-2006,60
+EH1 1AA,G,25,E,55,Bungalow,Terraced,2007-2011,75
+CF1 1AA,A,92,A,92,Maisonette,End-Terrace,2012 onwards,90
+LS1 1AA,B,85,A,92,Flat,Detached,Pre 1900,120
+NE1 1AA,C,75,A,92,House,Semi-Detached,1900-1929,150
+BS1 1AA,D,65,B,85,Bungalow,Terraced,1930-1949,200
+BT1 1AA,E,55,C,75,Maisonette,End-Terrace,1950-1966,250
+SW1A 1AA,F,40,D,65,Flat,Detached,1967-1975,45
+M1 1AA,G,25,E,55,House,Semi-Detached,1976-1982,60
+B1 1AA,A,92,A,92,Bungalow,Terraced,1983-1990,75
+G1 1AA,B,85,A,92,Maisonette,End-Terrace,1991-1995,90
+EH1 1AA,C,75,A,92,Flat,Detached,1996-2002,120
+CF1 1AA,D,65,B,85,House,Semi-Detached,2003-2006,150
+LS1 1AA,E,55,C,75,Bungalow,Terraced,2007-2011,200
+NE1 1AA,F,40,D,65,Maisonette,End-Terrace,2012 onwards,250
+BS1 1AA,G,25,E,55,Flat,Detached,Pre 1900,45
+BT1 1AA,A,92,A,92,House,Semi-Detached,1900-1929,60
+SW1A 1AA,B,85,A,92,Bungalow,Terraced,1930-1949,75
+M1 1AA,C,75,A,92,Maisonette,End-Terrace,1950-1966,90
+B1 1AA,D,65,B,85,Flat,Detached,1967-1975,120
+G1 1AA,E,55,C,75,House,Semi-Detached,1976-1982,150
+EH1 1AA,F,40,D,65,Bungalow,Terraced,1983-1990,200
+CF1 1AA,G,25,E,55,Maisonette,End-Terrace,1991-1995,250
+LS1 1AA,A,92,A,92,Flat,Detached,1996-2002,45
+NE1 1AA,B,85,A,92,House,Semi-Detached,2003-2006,60
+BS1 1AA,C,75,A,92,Bungalow,Terraced,2007-2011,75
+BT1 1AA,D,65,B,85,Maisonette,End-Terrace,2012 onwards,90
+SW1A 1AA,E,55,C,75,Flat,Detached,Pre 1900,120
+M1 1AA,F,40,D,65,House,Semi-Detached,1900-1929,150
+B1 1AA,G,25,E,55,Bungalow,Terraced,1930-1949,200
+G1 1AA,A,92,A,92,Maisonette,End-Terrace,1950-1966,250
+EH1 1AA,B,85,A,92,Flat,Detached,1967-1975,45
+CF1 1AA,C,75,A,92,House,Semi-Detached,1976-1982,60
+LS1 1AA,D,65,B,85,Bungalow,Terraced,1983-1990,75
+NE1 1AA,E,55,C,75,Maisonette,End-Terrace,1991-1995,90
+BS1 1AA,F,40,D,65,Flat,Detached,1996-2002,120
+BT1 1AA,G,25,E,55,House,Semi-Detached,2003-2006,150
+SW1A 1AA,A,92,A,92,Bungalow,Terraced,2007-2011,200
+M1 1AA,B,85,A,92,Maisonette,End-Terrace,2012 onwards,250
+B1 1AA,C,75,A,92,Flat,Detached,Pre 1900,45
+G1 1AA,D,65,B,85,House,Semi-Detached,1900-1929,60
+EH1 1AA,E,55,C,75,Bungalow,Terraced,1930-1949,75
+CF1 1AA,F,40,D,65,Maisonette,End-Terrace,1950-1966,90
+LS1 1AA,G,25,E,55,Flat,Detached,1967-1975,120
+NE1 1AA,A,92,A,92,House,Semi-Detached,1976-1982,150
+BS1 1AA,B,85,A,92,Bungalow,Terraced,1983-1990,200
+BT1 1AA,C,75,A,92,Maisonette,End-Terrace,1991-1995,250
+SW1A 1AA,D,65,B,85,Flat,Detached,1996-2002,45
+M1 1AA,E,55,C,75,House,Semi-Detached,2003-2006,60
+B1 1AA,F,40,D,65,Bungalow,Terraced,2007-2011,75
+G1 1AA,G,25,E,55,Maisonette,End-Terrace,2012 onwards,90
+EH1 1AA,A,92,A,92,Flat,Detached,Pre 1900,120
+CF1 1AA,B,85,A,92,House,Semi-Detached,1900-1929,150
+LS1 1AA,C,75,A,92,Bungalow,Terraced,1930-1949,200
+NE1 1AA,D,65,B,85,Maisonette,End-Terrace,1950-1966,250
+BS1 1AA,E,55,C,75,Flat,Detached,1967-1975,45
+BT1 1AA,F,40,D,65,House,Semi-Detached,1976-1982,60
+SW1A 1AA,G,25,E,55,Bungalow,Terraced,1983-1990,75
+M1 1AA,A,92,A,92,Maisonette,End-Terrace,1991-1995,90
+B1 1AA,B,85,A,92,Flat,Detached,1996-2002,120
+G1 1AA,C,75,A,92,House,Semi-Detached,2003-2006,150
+EH1 1AA,D,65,B,85,Bungalow,Terraced,2007-2011,200
+CF1 1AA,E,55,C,75,Maisonette,End-Terrace,2012 onwards,250
+LS1 1AA,F,40,D,65,Flat,Detached,Pre 1900,45
+NE1 1AA,G,25,E,55,House,Semi-Detached,1900-1929,60
+BS1 1AA,A,92,A,92,Bungalow,Terraced,1930-1949,75
+BT1 1AA,B,85,A,92,Maisonette,End-Terrace,1950-1966,90
+SW1A 1AA,C,75,A,92,Flat,Detached,1967-1975,120
+M1 1AA,D,65,B,85,House,Semi-Detached,1976-1982,150
+B1 1AA,E,55,C,75,Bungalow,Terraced,1983-1990,200
+G1 1AA,F,40,D,65,Maisonette,End-Terrace,1991-1995,250
+EH1 1AA,G,25,E,55,Flat,Detached,1996-2002,45
+CF1 1AA,A,92,A,92,House,Semi-Detached,2003-2006,60
+LS1 1AA,B,85,A,92,Bungalow,Terraced,2007-2011,75
+NE1 1AA,C,75,A,92,Maisonette,End-Terrace,2012 onwards,90
+BS1 1AA,D,65,B,85,Flat,Detached,Pre 1900,120
+BT1 1AA,E,55,C,75,House,Semi-Detached,1900-1929,150
+SW1A 1AA,F,40,D,65,Bungalow,Terraced,1930-1949,200
+M1 1AA,G,25,E,55,Maisonette,End-Terrace,1950-1966,250
+B1 1AA,A,92,A,92,Flat,Detached,1967-1975,45
+G1 1AA,B,85,A,92,House,Semi-Detached,1976-1982,60
+EH1 1AA,C,75,A,92,Bungalow,Terraced,1983-1990,75
+CF1 1AA,D,65,B,85,Maisonette,End-Terrace,1991-1995,90
+LS1 1AA,E,55,C,75,Flat,Detached,1996-2002,120
+NE1 1AA,F,40,D,65,House,Semi-Detached,2003-2006,150
+BS1 1AA,G,25,E,55,Bungalow,Terraced,2007-2011,200
+BT1 1AA,A,92,A,92,Maisonette,End-Terrace,2012 onwards,250
+SW1A 1AA,B,85,A,92,Flat,Detached,Pre 1900,45
+M1 1AA,C,75,A,92,House,Semi-Detached,1900-1929,60
+B1 1AA,D,65,B,85,Bungalow,Terraced,1930-1949,75
+G1 1AA,E,55,C,75,Maisonette,End-Terrace,1950-1966,90
+EH1 1AA,F,40,D,65,Flat,Detached,1967-1975,120
+CF1 1AA,G,25,E,55,House,Semi-Detached,1976-1982,150
+LS1 1AA,A,92,A,92,Bungalow,Terraced,1983-1990,200
+NE1 1AA,B,85,A,92,Maisonette,End-Terrace,1991-1995,250
+BS1 1AA,C,75,A,92,Flat,Detached,1996-2002,45
+BT1 1AA,D,65,B,85,House,Semi-Detached,2003-2006,60
+SW1A 1AA,E,55,C,75,Bungalow,Terraced,2007-2011,75
+M1 1AA,F,40,D,65,Maisonette,End-Terrace,2012 onwards,90
+B1 1AA,G,25,E,55,Flat,Detached,Pre 1900,120
+G1 1AA,A,92,A,92,House,Semi-Detached,1900-1929,150
+EH1 1AA,B,85,A,92,Bungalow,Terraced,1930-1949,200
+CF1 1AA,C,75,A,92,Maisonette,End-Terrace,1950-1966,250
+LS1 1AA,D,65,B,85,Flat,Detached,1967-1975,45
+NE1 1AA,E,55,C,75,House,Semi-Detached,1976-1982,60
+BS1 1AA,F,40,D,65,Bungalow,Terraced,1983-1990,75
+BT1 1AA,G,25,E,55,Maisonette,End-Terrace,1991-1995,90
+SW1A 1AA,A,92,A,92,Flat,Detached,1996-2002,120
+M1 1AA,B,85,A,92,House,Semi-Detached,2003-2006,150
+B1 1AA,C,75,A,92,Bungalow,Terraced,2007-2011,200
+G1 1AA,D,65,B,85,Maisonette,End-Terrace,2012 onwards,250
+EH1 1AA,E,55,C,75,Flat,Detached,Pre 1900,45
+CF1 1AA,F,40,D,65,House,Semi-Detached,1900-1929,60
+LS1 1AA,G,25,E,55,Bungalow,Terraced,1930-1949,75
+NE1 1AA,A,92,A,92,Maisonette,End-Terrace,1950-1966,90
+BS1 1AA,B,85,A,92,Flat,Detached,1967-1975,120
+BT1 1AA,C,75,A,92,House,Semi-Detached,1976-1982,150
+SW1A 1AA,D,65,B,85,Bungalow,Terraced,1983-1990,200
+M1 1AA,E,55,C,75,Maisonette,End-Terrace,1991-1995,250
+B1 1AA,F,40,D,65,Flat,Detached,1996-2002,45
+G1 1AA,G,25,E,55,House,Semi-Detached,2003-2006,60
+EH1 1AA,A,92,A,92,Bungalow,Terraced,2007-2011,75
+CF1 1AA,B,85,A,92,Maisonette,End-Terrace,2012 onwards,90
+LS1 1AA,C,75,A,92,Flat,Detached,Pre 1900,120
+NE1 1AA,D,65,B,85,House,Semi-Detached,1900-1929,150
+BS1 1AA,E,55,C,75,Bungalow,Terraced,1930-1949,200
+BT1 1AA,F,40,D,65,Maisonette,End-Terrace,1950-1966,250
