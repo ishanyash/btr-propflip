@@ -1,0 +1,30 @@
+# BTR Investment Platform - Python Dependencies
+
+# Core data processing
+pandas==2.1.1
+numpy==1.26.4
+requests==2.32.3
+
+# Web framework
+streamlit==1.28.0
+streamlit-folium
+
+# Visualization
+plotly==5.15.0
+folium==0.19.5
+
+# PDF generation
+reportlab
+
+# AI integration (optional)
+openai
+
+# Data collection APIs
+beautifulsoup4==4.13.3
+
+# Utilities
+python-dateutil==2.9.0.post0
+python-dotenv==1.1.0
+
+# Development
+pytest==8.3.5
