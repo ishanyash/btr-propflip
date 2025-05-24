@@ -25,7 +25,6 @@ except ImportError:
 def check_environment_setup():
     """Check if required environment variables are set"""
     required_vars = {
-        'GOOGLE_MAPS_API_KEY': 'Google Maps API for address geocoding',
         'EPC_EMAIL': 'Your registered email for EPC API',
         'EPC_API_KEY': 'Your EPC API key'
     }
@@ -98,8 +97,7 @@ def display_setup_instructions():
 # .env file
 EPC_EMAIL=your-registered-email@example.com
 EPC_API_KEY=your-epc-api-key
-GOOGLE_MAPS_API_KEY=your-google-maps-api-key
-OPENAI_API_KEY=your-openai-api-key  # Optional
+OPENAI_API_KEY=your-openai-key  # Optional
             """)
             
             st.write("**Missing variables:**")
@@ -112,14 +110,11 @@ OPENAI_API_KEY=your-openai-api-key  # Optional
                 1. Register at https://epc.opendatacommunities.org/login
                 2. Use the email and API key provided after registration
                 
-                **Google Maps API Key:**
-                1. Go to Google Cloud Console
-                2. Enable the Geocoding API
-                3. Create an API key with Geocoding API access
-                
                 **OpenAI API Key (Optional):**
                 1. Sign up at https://platform.openai.com/
                 2. Generate an API key in your account settings
+                
+                **Note**: Google Maps API is no longer required! We use free geocoding services.
                 """)
         
         # Data collection setup
@@ -195,6 +190,18 @@ def test_data_collection():
             st.error("❌ OpenStreetMap API connection failed")
     except Exception as e:
         st.error(f"❌ OSM API test failed: {e}")
+    
+    # Test Free Geocoding
+    try:
+        from scripts.free_geocoding_service import geocode_location
+        test_result = geocode_location("London SW1A 1AA")
+        if test_result:
+            st.success("✅ Free geocoding service working")
+            st.write(f"Test result: {test_result['formatted_address']}")
+        else:
+            st.warning("⚠️ Free geocoding service has limited coverage")
+    except Exception as e:
+        st.error(f"❌ Free geocoding test failed: {e}")
 
 def display_data_collection_status():
     """Display current data collection status"""
@@ -287,6 +294,9 @@ def main():
     st.sidebar.title("BTR Investment Platform")
     st.sidebar.write("---")
     
+    # Add geocoding status
+    st.sidebar.info("🌍 Using Free Geocoding\n(No API keys required)")
+    
     if missing_required or not data_ok:
         # Setup mode
         st.sidebar.error("⚠️ Setup Required")
@@ -328,17 +338,24 @@ def main():
                     st.write(f"**Optional APIs:** ✅ All configured")
                 
                 st.write(f"**Data Status:** {data_status}")
+                st.write("**Geocoding:** 🌍 Free services (Nominatim + PostCodes.io)")
             
             with col2:
                 st.subheader("Application Info")
                 st.write(f"**Platform:** BTR Investment Analysis")
-                st.write(f"**Version:** 1.0.0")
+                st.write(f"**Version:** 2.0.0 (Free Geocoding)")
                 st.write(f"**Last Updated:** {datetime.now().strftime('%Y-%m-%d')}")
+                
+                st.subheader("Free Services Used")
+                st.write("• OpenStreetMap Nominatim API")
+                st.write("• PostCodes.io (UK Postcodes)")
+                st.write("• Comprehensive UK location database")
     
     # Footer
     st.sidebar.write("---")
     st.sidebar.caption("Built with Streamlit 🎈")
     st.sidebar.caption("Real UK property data analysis")
+    st.sidebar.caption("🌍 No paid APIs required!")
 
 if __name__ == "__main__":
     main()
